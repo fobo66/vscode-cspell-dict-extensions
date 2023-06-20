@@ -1,0 +1,5 @@
+{
+    "import": [
+        "@cspell/dict-belarusian/cspell-ext.json"
+    ]
+}
