@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-greek-v1.2.0...code-spell-checker-greek@2.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Greek Dictionary to V2 ([#368](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/368))
+
+### Features
+
+* bump @cspell/dict-el from 2.0.1 to 3.0.0 ([#685](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/685)) ([a99f781](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/a99f7811cbfeaa9bf7fd87f6e429c733dd6f8d5e))
+* Upgrade Greek Dictionary to V2 ([#368](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/368)) ([27b2a64](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/27b2a641f3733e58aa832d2908aa034a073c92a7))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.2.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-greek@1.1.0...code-spell-checker-greek@1.2.0) (2023-11-07)
 
 

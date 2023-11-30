@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-czech-v1.0.5...code-spell-checker-czech@2.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Czech Dictionary to v2 ([#365](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/365))
+
+### Features
+
+* Upgrade Czech Dictionary to v2 ([#365](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/365)) ([0aeb44b](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/0aeb44bf30bceffde6b1a09dbd5ac9a305c3dfe4))
+
+
+### Updates and Bug Fixes
+
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.0.5](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-czech@1.0.4...code-spell-checker-czech@1.0.5) (2023-10-22)
 
 

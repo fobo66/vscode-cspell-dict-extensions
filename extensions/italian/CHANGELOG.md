@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-italian-v1.1.0...code-spell-checker-italian@2.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Italian Dictionary to v2 ([#370](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/370))
+
+### Features
+
+* Upgrade Italian Dictionary to v2 ([#370](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/370)) ([2fca1c5](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2fca1c59e586fe3845fb3ad07c994f716c355479))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* Update dictionaries ([a28a5da](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/a28a5dab399499399b03df23ee955d668dca490e))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.1.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-italian@1.0.2...code-spell-checker-italian@1.1.0) (2023-11-07)
 
 

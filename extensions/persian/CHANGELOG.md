@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-persian-v2.0.0...code-spell-checker-persian@3.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update @cspell/dict-fa-ir from 2.0.0 to 3.0.0 ([#724](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/724))
+* Update Persian Dictionary to V2 ([#376](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/376))
+
+### Features
+
+* Update @cspell/dict-fa-ir from 2.0.0 to 3.0.0 ([#724](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/724)) ([20586c1](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/20586c11e0250645cbc433a2d8088d0d57821358))
+* Update Persian Dictionary to V2 ([#376](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/376)) ([543a90d](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/543a90dc7af789e1b62972e49b0590a1bd573d87))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+* Workflow Bot -- Update Dictionaries ([#777](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/777)) ([f650754](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/f650754169f0e365409c3edcf45fb6a87fefc727))
+
 ## [2.0.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-persian@1.0.2...code-spell-checker-persian@2.0.0) (2023-09-12)
 
 

@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-portuguese-v2.0.1...code-spell-checker-portuguese@3.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update @cspell/dict-pt-pt from 2.0.0 to 3.0.0 ([#723](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/723))
+* Upgrade Portuguese Dictionary to v2.0 ([#353](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/353))
+
+### Features
+
+* Update @cspell/dict-pt-pt from 2.0.0 to 3.0.0 ([#723](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/723)) ([fb03da8](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/fb03da8ebb2062180407f3ab36939079872957b8))
+* Upgrade Portuguese Dictionary to v2.0 ([#353](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/353)) ([7443cb6](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/7443cb6c282a286b9e48d62b8b76f2074162eb64))
+
+
+### Updates and Bug Fixes
+
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update README ([f97c5c9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/f97c5c9fc6cd3b801f13c7e97abcb6b48c881cd8))
+* Update sample ([8d2132a](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/8d2132ac0e337bc2d043fdcdd2cc6a4eaee78fac))
+* Update sample ([6224cbb](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6224cbb8e44345375810c34603db7d856bd01ad6))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [2.0.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-portuguese@2.0.0...code-spell-checker-portuguese@2.0.1) (2023-10-22)
 
 

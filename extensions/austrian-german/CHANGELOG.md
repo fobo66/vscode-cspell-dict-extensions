@@ -2,6 +2,19 @@
 
 All notable changes to the "code-spell-checker-austrian-german" extension will be documented in this file.
 
+## [1.2.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-austrian-german-v1.1.0...code-spell-checker-austrian-german@1.2.0) (2023-11-30)
+
+
+### Features
+
+* Add Austrian German extension ([#564](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/564)) ([24ca1b7](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24ca1b77ccdce5acbcf2837bd09b8fc2c06546b2))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.1.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-austrian-german@1.0.1...code-spell-checker-austrian-german@1.1.0) (2023-11-07)
 
 

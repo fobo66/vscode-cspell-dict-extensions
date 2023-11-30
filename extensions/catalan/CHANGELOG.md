@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-catalan-v1.0.4...code-spell-checker-catalan@2.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Upgrade Catalan Dictionary to v2 ([#364](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/364))
+
+### Features
+
+* Upgrade Catalan Dictionary to v2 ([#364](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/364)) ([7e16e1f](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/7e16e1f7015bc8bdc9c4fddfab93392834db460a))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.0.4](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-catalan@1.0.3...code-spell-checker-catalan@1.0.4) (2023-03-16)
 
 

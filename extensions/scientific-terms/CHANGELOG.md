@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-scientific-terms-v0.2.0...code-spell-checker-scientific-terms@0.3.0) (2023-11-30)
+
+
+### Features
+
+* bump @cspell/dict-scientific-terms-us from 2.0.0 to 3.0.0 ([#688](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/688)) ([60c84ea](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/60c84eaa156d6245428717835a936b045d5dcea6))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [0.2.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-scientific-terms@0.1.9...code-spell-checker-scientific-terms@0.2.0) (2023-07-25)
 
 

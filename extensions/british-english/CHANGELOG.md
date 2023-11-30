@@ -2,6 +2,32 @@
 
 All notable changes to the "code-spell-checker-british-english" extension will be documented in this file.
 
+## [1.5.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-british-english-v1.4.0...code-spell-checker-british-english@1.5.0) (2023-11-30)
+
+
+### Features
+
+* Add British English Extension ([#509](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/509)) ([780cfa6](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/780cfa6915dd74772412fac52861fead4617fe9b))
+* Update Dictionaries ([333382a](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/333382a02ac229a13b3d77a122b7e8201cad695c))
+* Update Dictionaries ([#559](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/559)) ([918ae55](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/918ae55e564f42b8ebe6cb6b448be68c9af03137))
+* Update dictionaries ([#717](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/717)) ([139336f](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/139336fdb74ae9954847509f3dbb89300777ad24))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* bump @cspell/dict-en-gb from 4.1.13 to 4.1.14 ([#611](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/611)) ([9a7d0e1](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/9a7d0e1e3c2a1164a7149f059e213976f5767332))
+* Update @cspell/dict-en-gb from 4.1.18 to 4.1.19 ([a2f46ef](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/a2f46efa8ed393d117ccb27faba3bf2b2b1eb5b3))
+* Update dictionaries ([a28a5da](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/a28a5dab399499399b03df23ee955d668dca490e))
+* Update Dictionaries ([#517](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/517)) ([804afeb](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/804afeb61e930613c698c812f9922c1e080acc53))
+* Update dictionaries ([#582](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/582)) ([6a2479b](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6a2479ba45e4040808d172dc8ad734b41d27ac91))
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update README ([#514](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/514)) ([ea09e6e](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/ea09e6e467f7296d80013fec8da3b6e899a51a5a))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+* Workflow Bot -- Update ALL Dependencies ([#610](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/610)) ([d52e2fc](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/d52e2fce4f0fc581e8d901cd82ea68ba31557977))
+* Workflow Bot -- Update ALL Dependencies ([#639](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/639)) ([30fcea3](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/30fcea3356aa445a12726fc8313c926efd3159fe))
+* Workflow Bot -- Update Dictionaries ([#758](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/758)) ([bba8e28](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/bba8e288ef76ced6d53c8ef0f058002514b27c6a))
+
 ## [1.4.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-british-english@1.3.1...code-spell-checker-british-english@1.4.0) (2023-11-07)
 
 

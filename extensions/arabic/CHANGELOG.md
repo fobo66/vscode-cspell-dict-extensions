@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-arabic-v0.2.0...code-spell-checker-arabic@0.3.0) (2023-11-30)
+
+
+### Features
+
+* Update Dictionaries ([333382a](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/333382a02ac229a13b3d77a122b7e8201cad695c))
+
+
+### Updates and Bug Fixes
+
+* Promote Arabic out of preview mode. ([7207f88](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/7207f88ae0a5a47aae62eafc88e810153acb761a))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [0.2.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-arabic@0.1.8...code-spell-checker-arabic@0.2.0) (2023-07-20)
 
 

@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-polish-v2.1.1...code-spell-checker-polish@3.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update the Polish Dictionary to v2 ([#371](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/371))
+
+### Features
+
+* bump @cspell/dict-pl_pl from 2.0.1 to 3.0.0 ([#686](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/686)) ([5bfd2af](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/5bfd2af3169f3362ce2b27df9453c668dc2ca951))
+* Update the Polish Dictionary to v2 ([#371](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/371)) ([16ebb57](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/16ebb575d9b1fbce1ed69fde0f9f139e34d16c0d))
+
+
+### Updates and Bug Fixes
+
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [2.1.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-polish@2.1.0...code-spell-checker-polish@2.1.1) (2023-10-22)
 
 

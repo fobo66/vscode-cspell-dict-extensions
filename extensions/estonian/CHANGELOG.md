@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-estonian-v0.3.0...code-spell-checker-estonian@0.4.0) (2023-11-30)
+
+
+### Features
+
+* Update Dictionaries ([333382a](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/333382a02ac229a13b3d77a122b7e8201cad695c))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+* Workflow Bot -- Update Dictionaries ([#758](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/758)) ([bba8e28](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/bba8e288ef76ced6d53c8ef0f058002514b27c6a))
+
 ## [0.3.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-estonian@0.2.1...code-spell-checker-estonian@0.3.0) (2023-11-07)
 
 

@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-german-v2.3.0...code-spell-checker-german@2.4.0) (2023-11-30)
+
+
+### Features
+
+* Support alternate German spelling of Umlauts. ([c56a0a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/c56a0a901361d797573f9ef3e2d68a7eeadc265a)), closes [#408](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/408)
+* Update Dictionaries ([#559](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/559)) ([918ae55](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/918ae55e564f42b8ebe6cb6b448be68c9af03137))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* [#408](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/408) ([c56a0a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/c56a0a901361d797573f9ef3e2d68a7eeadc265a))
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [2.3.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-german@2.2.2...code-spell-checker-german@2.3.0) (2023-11-07)
 
 

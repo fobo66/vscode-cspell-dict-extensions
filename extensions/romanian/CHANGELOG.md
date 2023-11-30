@@ -2,6 +2,21 @@
 
 All notable changes to the "code-spell-checker-romanian" extension will be documented in this file.
 
+## [1.2.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-romanian-v1.1.0...code-spell-checker-romanian@1.2.0) (2023-11-30)
+
+
+### Features
+
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* Add Romanian ([#708](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/708)) ([6af65d9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6af65d9bc4138e9d8c19be3e6ea81d81f2400f61))
+* Prepare to publish ([#711](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/711)) ([e1d6d0b](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/e1d6d0b63244449bac31802bc13c57a48d38c7da))
+* Remove preview flag ([#733](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/733)) ([6c0cc22](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6c0cc22cd36b0e7fffe08cb8ae1fdade38149b3d))
+* Workflow Bot -- Update Dictionaries ([#777](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/777)) ([f650754](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/f650754169f0e365409c3edcf45fb6a87fefc727))
+
 ## [1.1.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-romanian@1.0.1...code-spell-checker-romanian@1.1.0) (2023-11-07)
 
 

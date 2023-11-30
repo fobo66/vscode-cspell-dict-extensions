@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-danish-v2.2.0...code-spell-checker-danish@3.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update the Danish dictionary ([#556](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/556))
+* Update Danish dictionary to v2 ([#350](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/350))
+
+### Features
+
+* Update Danish dictionary to v2 ([#350](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/350)) ([ce1a54b](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/ce1a54b92f9fe4030bae7e3036baf43c2a8ca6e2))
+* Update Dictionaries ([#559](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/559)) ([918ae55](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/918ae55e564f42b8ebe6cb6b448be68c9af03137))
+* Update the Danish dictionary ([#556](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/556)) ([d69ec6b](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/d69ec6b90a2d8e154727a5335956430eff06ad63))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* Update sample ([67b2d17](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/67b2d179d56a2ad719a4f69fedd24e55216d3385))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [2.2.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-danish@2.1.1...code-spell-checker-danish@2.2.0) (2023-11-07)
 
 

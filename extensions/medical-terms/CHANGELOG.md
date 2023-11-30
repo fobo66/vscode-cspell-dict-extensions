@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-medical-terms-v3.0.0...code-spell-checker-medical-terms@4.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update @cspell/dict-medicalterms from 3.0.0 to 4.0.0 ([#722](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/722))
+* Update Medical Terms Dictionary to v2 ([#378](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/378))
+
+### Features
+
+* Update @cspell/dict-medicalterms from 3.0.0 to 4.0.0 ([#722](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/722)) ([002d70c](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/002d70ca34a1f379f431b7315a0341eb76d2a3b9))
+* Update Medical Terms Dictionary to v2 ([#378](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/378)) ([93fcd66](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/93fcd66ae8ada88e8ac894a6845c9db15e455f34))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [3.0.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-medical-terms@2.0.3...code-spell-checker-medical-terms@3.0.0) (2023-09-12)
 
 

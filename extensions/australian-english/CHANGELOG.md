@@ -2,6 +2,24 @@
 
 All notable changes to the "code-spell-checker-australian-english" extension will be documented in this file.
 
+## [1.2.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-australian-english-v1.1.1...code-spell-checker-australian-english@1.2.0) (2023-11-30)
+
+
+### Features
+
+* Add Australian English Dictionary ([#536](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/536)) ([d34a31c](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/d34a31cd01a6392cbf540f39a8952e575904f36d))
+* Update dictionaries ([#717](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/717)) ([139336f](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/139336fdb74ae9954847509f3dbb89300777ad24))
+
+
+### Updates and Bug Fixes
+
+* Correct README.md example for Australian English and Canadian English ([#796](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/796)) ([675157f](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/675157ff75f8d87e553122a635c5ce4bdae55b73))
+* Update dictionaries ([a28a5da](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/a28a5dab399499399b03df23ee955d668dca490e))
+* Update dictionaries ([#582](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/582)) ([6a2479b](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6a2479ba45e4040808d172dc8ad734b41d27ac91))
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+* Workflow Bot -- Update Dictionaries ([#758](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/758)) ([bba8e28](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/bba8e288ef76ced6d53c8ef0f058002514b27c6a))
+
 ## [1.1.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-australian-english@1.1.0...code-spell-checker-australian-english@1.1.1) (2023-10-22)
 
 

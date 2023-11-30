@@ -2,6 +2,18 @@
 
 All notable changes to the "code-spell-checker-basque" extension will be documented in this file.
 
+## [1.1.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-basque-v1.0.3...code-spell-checker-basque@1.1.0) (2023-11-30)
+
+
+### Features
+
+* Add Basque language extension ([#466](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/466)) ([eea0f93](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/eea0f934577a09f5b90e484be1902b0e815cec3b))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.0.3](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-basque@1.0.2...code-spell-checker-basque@1.0.3) (2023-03-16)
 
 
