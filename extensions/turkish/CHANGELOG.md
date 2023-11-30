@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-turkish-v1.1.0...code-spell-checker-turkish@2.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Turkish Dictionary to v2 ([#372](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/372))
+
+### Features
+
+* Update @cspell/dict-tr-tr from 2.0.0 to 3.0.0 ([f73d2f8](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/f73d2f8275c4b6481643ca189ab9275e26d72192))
+* Update Turkish Dictionary to v2 ([#372](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/372)) ([943a6d4](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/943a6d4997ad59b5295f42eb9d00870c910b9a44))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.1.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-turkish@1.0.2...code-spell-checker-turkish@1.1.0) (2023-08-21)
 
 

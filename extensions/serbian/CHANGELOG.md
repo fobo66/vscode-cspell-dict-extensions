@@ -2,6 +2,25 @@
 
 All notable changes to the "code-spell-checker-serbian" extension will be documented in this file.
 
+## [1.3.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-serbian-v1.2.0...code-spell-checker-serbian@1.3.0) (2023-11-30)
+
+
+### Features
+
+* add Serbian ([#476](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/476)) ([3c3d6c9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/3c3d6c9b7714a8e3221c2f8d85fa9723b9765bd7))
+* Update Dictionaries ([333382a](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/333382a02ac229a13b3d77a122b7e8201cad695c))
+* Update dictionaries ([#717](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/717)) ([139336f](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/139336fdb74ae9954847509f3dbb89300777ad24))
+
+
+### Updates and Bug Fixes
+
+* Add a logo at the bottom of the README ([#490](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/490)) ([5ad1ae6](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/5ad1ae61227580a5c99b0f97a8d7f22fbfc8e667))
+* Add commands for sr-Cyrl and sr-Latn ([#486](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/486)) ([e705759](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/e70575992202b29508aab5c28a79fe156220eb88))
+* Do not turn on `sr` by default. ([#483](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/483)) ([3655808](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/3655808386d9a48f21b118651b163cbce867dc72))
+* Serbian - improve README and remove preview flag. [#489](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/489) ([3726ed4](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/3726ed4b9f8103f05ffc5b2c453d2a2008ec15dd))
+* Update Serbian dictionaries ([#485](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/485)) ([5773481](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/5773481165c3fcd7f072d35d2f5a98c258c17dea))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.2.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-serbian@1.1.0...code-spell-checker-serbian@1.2.0) (2023-09-01)
 
 

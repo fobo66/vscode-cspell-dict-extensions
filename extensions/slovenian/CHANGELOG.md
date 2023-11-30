@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-slovenian-v0.2.1...code-spell-checker-slovenian@0.3.0) (2023-11-30)
+
+
+### Features
+
+* Update Dictionaries ([333382a](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/333382a02ac229a13b3d77a122b7e8201cad695c))
+
+
+### Updates and Bug Fixes
+
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [0.2.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-slovenian@0.2.0...code-spell-checker-slovenian@0.2.1) (2023-10-22)
 
 

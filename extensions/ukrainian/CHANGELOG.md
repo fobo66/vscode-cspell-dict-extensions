@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-ukrainian-v1.2.0...code-spell-checker-ukrainian@2.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update Ukrainian Dictionary to v2 ([#373](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/373))
+
+### Features
+
+* Update Ukrainian dictionary ([703f9ff](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/703f9ff9007d0c54c3868b0d1a7d75e72b2da66c))
+* Update Ukrainian Dictionary to v2 ([#373](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/373)) ([745dc28](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/745dc28543c9e704a57891f7a370750658daa9a6))
+* Workflow Bot -- Update Dictionaries ([#771](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/771)) ([2a6ad82](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/2a6ad8295ed4e5264867df8c9c97e14d6e0763bc))
+
+
+### Updates and Bug Fixes
+
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+* Workflow Bot -- Update Dictionaries ([#777](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/777)) ([f650754](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/f650754169f0e365409c3edcf45fb6a87fefc727))
+
 ## [1.2.0](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-ukrainian@1.1.0...code-spell-checker-ukrainian@1.2.0) (2023-11-07)
 
 

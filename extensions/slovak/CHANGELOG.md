@@ -2,6 +2,20 @@
 
 All notable changes to the "code-spell-checker-slovak" extension will be documented in this file.
 
+## [1.2.0](https://github.com/fobo66/vscode-cspell-dict-extensions/compare/code-spell-checker-slovak-v1.1.1...code-spell-checker-slovak@1.2.0) (2023-11-30)
+
+
+### Features
+
+* Add Slovak Extension ([afdc29e](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/afdc29ead01814312a7bab0898bb9ef2398e6f7e))
+* Update Dictionaries ([333382a](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/333382a02ac229a13b3d77a122b7e8201cad695c))
+
+
+### Updates and Bug Fixes
+
+* Update dictionaries ([#747](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/747)) ([24b79a9](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/24b79a9e1b641009b6fd3206eebd443169e67123))
+* Update sponsor link ([#579](https://github.com/fobo66/vscode-cspell-dict-extensions/issues/579)) ([6df2075](https://github.com/fobo66/vscode-cspell-dict-extensions/commit/6df2075cda94e9253a1f11d5dcf63e73a49b8edd))
+
 ## [1.1.1](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/compare/code-spell-checker-slovak@1.1.0...code-spell-checker-slovak@1.1.1) (2023-10-22)
 
 
